@@ -125,11 +125,22 @@ export default function Projects() {
           ))}
         </div>
 
-        <div className="linkedin-projects mt-5">
-          <div className="d-flex flex-wrap align-items-end justify-content-between gap-3 mb-3">
+        <div className="linkedin-projects mt-5 pt-3">
+          <div className="d-flex flex-wrap align-items-end justify-content-between gap-3 mb-4">
             <div>
-              <span className="eyebrow">FROM MY LINKEDIN POSTS</span>
-              <h3 className="mt-2">Projects & experiments</h3>
+              <span className="eyebrow d-inline-flex align-items-center gap-2">
+                <Linkedin size={13} /> FROM MY LINKEDIN POSTS
+              </span>
+              <h3 className="section-subheading-title">
+                Independent projects &amp;{" "}
+                <span className="gradient-text animated-shimmer">
+                  experiments.
+                </span>
+              </h3>
+              <p className="section-subheading-desc">
+                Full-stack architectures, prototypes and engineering deep dives
+                shared on LinkedIn.
+              </p>
             </div>
             <a
               className="text-link mb-2"
