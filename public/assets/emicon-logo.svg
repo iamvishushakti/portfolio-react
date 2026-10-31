@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+  <rect width="60" height="60" rx="14" fill="#1a1f36"/>
+  <rect x="2" y="2" width="56" height="56" rx="12" fill="none" stroke="#3B82F6" stroke-width="1.5"/>
+  <text x="30" y="30" font-family="Arial,sans-serif" font-size="15" font-weight="900" fill="#60A5FA" text-anchor="middle">EMI</text>
+  <text x="30" y="43" font-family="Arial,sans-serif" font-size="6" fill="#a3a5b6" text-anchor="middle">CON</text>
+</svg>
+

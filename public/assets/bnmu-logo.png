@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" to="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BNMU || Bhupendra Narayan Mandal University</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=titillium-+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap");
+    </style>
+    <script type="module" crossorigin src="/assets/index-BdsEkky0.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-CYNrTmeG.js">
+    <link rel="modulepreload" crossorigin href="/assets/ui-CbcqPjbc.js">
+    <link rel="stylesheet" crossorigin href="/assets/index--dYsRfjc.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092" integrity="sha512-UKNk8GbxkABxKcXYuLkO16EleLGUkcvJWtpSNmExE0Too3ZaFAxTscNWEc1OdAv5/BikHawapSCaiD2XCmp+Bw==" data-cf-beacon='{"version":"2024.11.0","token":"c6dd398d0dba4ff89f9664cf0d5a2c5a","r":1,"spa":2}' crossorigin="anonymous"></script>
+</body>
+</html>
