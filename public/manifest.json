@@ -1,0 +1,21 @@
+{
+  "name": "Vishal Kumar — Software Developer Portfolio",
+  "short_name": "Vishal Kumar",
+  "description": "Portfolio of Vishal Kumar, Software Developer specializing in PHP, Laravel, WHMCS and Full-Stack Web Development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b0c14",
+  "theme_color": "#7650f6",
+  "icons": [
+    {
+      "src": "/assets/vishal-3d-hero.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/vishal-3d-hero.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
