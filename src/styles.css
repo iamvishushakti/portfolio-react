@@ -114,6 +114,14 @@ a {
   color: var(--purple);
 }
 
+.nav-resume-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--purple) !important;
+  font-weight: 700 !important;
+}
+
 .nav-actions {
   display: flex;
   align-items: center;

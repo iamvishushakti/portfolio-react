@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://iamvishushakti.github.io/portfolio-react/</loc>
+    <loc>https://portfolio.iamvishushakti.in/</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://iamvishushakti.github.io/portfolio-react/#about</loc>
+    <loc>https://portfolio.iamvishushakti.in/#about</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iamvishushakti.github.io/portfolio-react/#skills</loc>
+    <loc>https://portfolio.iamvishushakti.in/#skills</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iamvishushakti.github.io/portfolio-react/#projects</loc>
+    <loc>https://portfolio.iamvishushakti.in/#projects</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://iamvishushakti.github.io/portfolio-react/#journey</loc>
+    <loc>https://portfolio.iamvishushakti.in/#journey</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://iamvishushakti.github.io/portfolio-react/#education</loc>
+    <loc>https://portfolio.iamvishushakti.in/#education</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://iamvishushakti.github.io/portfolio-react/#contact</loc>
+    <loc>https://portfolio.iamvishushakti.in/#contact</loc>
     <lastmod>2026-10-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://portfolio.iamvishushakti.in/Vishal-Kumar-Resume.pdf</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

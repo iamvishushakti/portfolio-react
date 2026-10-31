@@ -27,6 +27,9 @@ export default function Education() {
                     src={item.logo}
                     alt={item.logoAlt}
                     className="education-uni-logo"
+                    width="58"
+                    height="58"
+                    loading="lazy"
                   />
                 )}
                 <div className="education-icon">

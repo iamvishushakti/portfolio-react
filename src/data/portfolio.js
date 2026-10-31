@@ -8,6 +8,7 @@ export const profile = {
   linkedin: "https://www.linkedin.com/in/iamvishushakti/",
   location: "Madhepura, Bihar 852113, India",
   email: "iamvishushakti@gmail.com",
+  resumeUrl: "/Vishal-Kumar-Resume.pdf",
   gmailUrl:
     "https://mail.google.com/mail/?view=cm&fs=1&to=iamvishushakti@gmail.com",
   googleChatUrl: "https://chat.google.com/dm/iamvishushakti@gmail.com",

@@ -1,4 +1,11 @@
-import { ArrowDown, ArrowUpRight, Github, Linkedin, Mail } from "lucide-react";
+import {
+  ArrowDown,
+  ArrowUpRight,
+  FileText,
+  Github,
+  Linkedin,
+  Mail,
+} from "lucide-react";
 import { profile } from "../data/portfolio";
 
 export default function Hero() {
@@ -27,6 +34,14 @@ export default function Hero() {
           <div className="hero-buttons">
             <a href="#projects" className="btn btn-primary-gradient">
               Explore my work <ArrowUpRight size={17} />
+            </a>
+            <a
+              href={profile.resumeUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn btn-outline-soft"
+            >
+              <FileText size={15} /> Resume <ArrowUpRight size={14} />
             </a>
             <a
               href={profile.gmailUrl}
@@ -74,14 +89,21 @@ export default function Hero() {
           <img
             className="hero-character"
             src="/assets/vishal-3d-hero.png"
-            alt="3D illustrated developer working at a laptop"
+            alt="Vishal Kumar - Software Developer 3D Character Illustration"
+            width="570"
+            height="410"
+            fetchPriority="high"
           />
           <div className="hero-caption">
             <span className="caption-dot" /> Thoughtful code. Useful products.
           </div>
         </div>
       </div>
-      <a className="scroll-cue" href="#about">
+      <a
+        className="scroll-cue"
+        href="#about"
+        aria-label="Scroll to about section"
+      >
         <span>
           <ArrowDown size={15} />
         </span>{" "}

@@ -28,7 +28,13 @@ export default function Experience() {
                       {ri === 0 ? (
                         <div className="lk-company-logo">
                           {company.logo ? (
-                            <img src={company.logo} alt={company.company} />
+                            <img
+                              src={company.logo}
+                              alt={company.company}
+                              width="52"
+                              height="52"
+                              loading="lazy"
+                            />
                           ) : (
                             <BriefcaseBusiness size={20} />
                           )}

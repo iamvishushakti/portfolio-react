@@ -55,8 +55,9 @@ export default function Projects() {
                     <div className="project-image-box">
                       <img
                         src={p.image}
-                        alt={p.title}
+                        alt={`${p.title} platform preview`}
                         className="project-image-media"
+                        loading="lazy"
                       />
                     </div>
                   ) : (

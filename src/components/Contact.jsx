@@ -1,5 +1,6 @@
 import {
   ArrowUpRight,
+  FileText,
   Github,
   Linkedin,
   Mail,
@@ -46,6 +47,20 @@ export default function Contact() {
             </div>
           </div>
           <div className="contact-details">
+            <a
+              href={profile.resumeUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <span>
+                <FileText size={18} />
+              </span>
+              <div>
+                <small>RESUME</small>
+                <b>View & Download CV</b>
+              </div>
+              <ArrowUpRight size={16} />
+            </a>
             <a href={profile.gmailUrl} target="_blank" rel="noreferrer">
               <span>
                 <Mail size={18} />

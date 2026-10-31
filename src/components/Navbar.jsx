@@ -32,6 +32,15 @@ export default function Navbar({ theme, onToggle }) {
               {link}
             </a>
           ))}
+          <a
+            href="/Vishal-Kumar-Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={() => setOpen(false)}
+            className="nav-resume-link"
+          >
+            Resume <ArrowUpRight size={13} />
+          </a>
         </div>
         <div className="nav-actions">
           <ThemeToggle theme={theme} onToggle={onToggle} />
