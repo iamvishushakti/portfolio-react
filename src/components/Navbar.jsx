@@ -19,7 +19,7 @@ export default function Navbar({ theme, onToggle }) {
         <a className="brand" href="#home" aria-label="Vishal Kumar home">
           <span className="brand-mark">&lt;/&gt;</span>
           <span>
-            vishal<span className="brand-dot">.</span>
+            vishal kumar<span className="brand-dot">.</span>
           </span>
         </a>
         <div className={`nav-links ${open ? "nav-open" : ""}`}>

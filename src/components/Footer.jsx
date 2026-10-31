@@ -7,7 +7,7 @@ export default function Footer() {
         <a className="brand" href="#home">
           <span className="brand-mark">&lt;/&gt;</span>
           <span>
-            vishal<span className="brand-dot">.</span>
+            vishal kumar<span className="brand-dot">.</span>
           </span>
         </a>
         <p>Designed with curiosity. Built with code.</p>

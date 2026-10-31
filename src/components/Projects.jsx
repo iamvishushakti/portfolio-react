@@ -198,8 +198,9 @@ export default function Projects() {
           </div>
         </div>
         <p className="project-footnote">
-          Project descriptions are based on the work details shared by Vishal.
-          Public product and LinkedIn post links are provided where available.
+          Project descriptions are based on the work details shared by Vishal
+          Kumar. Public product and LinkedIn post links are provided where
+          available.
         </p>
         {/* <div className="github-live mt-4 reveal">
           <div><span className="eyebrow">LIVE FROM GITHUB</span><h3>{github.loading ? "Loading public repositories…" : github.error ? "See what I’m building on GitHub." : `Recent public repositories (${github.profile?.public_repos ?? "—"})`}</h3><p>Public projects are fetched from GitHub when the page loads.</p></div>

@@ -10,7 +10,7 @@ export default function Hero() {
             <span className="pulse-dot" /> Available for opportunities
           </div>
           <p className="hello-line">
-            Hello, I’m Vishal <span>✳</span>
+            Hello, I’m Vishal Kumar <span>✳</span>
           </p>
           <h1>
             Turning ideas

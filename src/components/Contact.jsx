@@ -37,7 +37,7 @@ export default function Contact() {
               </a>
               <a
                 className="btn btn-outline-soft"
-                href="https://wa.me/919102956764?text=Hi%20Vishal,%20I%20saw%20your%20portfolio"
+                href="https://wa.me/919102956764?text=Hi%20Vishal%20Kumar,%20I%20saw%20your%20portfolio"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -57,7 +57,7 @@ export default function Contact() {
               <ArrowUpRight size={16} />
             </a>
             <a
-              href="https://wa.me/919102956764?text=Hi%20Vishal,%20I%20saw%20your%20portfolio"
+              href="https://wa.me/919102956764?text=Hi%20Vishal%20Kumar,%20I%20saw%20your%20portfolio"
               target="_blank"
               rel="noreferrer"
             >
