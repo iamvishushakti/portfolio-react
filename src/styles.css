@@ -1370,6 +1370,9 @@ h3 {
 .lk-role-company a {
   color: var(--muted);
   transition: color 0.2s;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
 }
 
 .lk-role-company a:hover {

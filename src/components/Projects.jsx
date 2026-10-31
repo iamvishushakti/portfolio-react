@@ -1,4 +1,10 @@
-import { ArrowUpRight, ExternalLink, Settings } from "lucide-react";
+import {
+  ArrowUpRight,
+  ExternalLink,
+  Github,
+  Linkedin,
+  Settings,
+} from "lucide-react";
 import SectionHeading from "./SectionHeading";
 import { projects } from "../data/portfolio";
 import { linkedinProjects } from "../data/linkedinProjects";
@@ -40,7 +46,7 @@ export default function Projects() {
             target="_blank"
             rel="noreferrer"
           >
-            Explore GitHub <ArrowUpRight size={16} />
+            <Github size={16} /> Explore GitHub <ArrowUpRight size={16} />
           </a>
         </div>
         <div className="projects-hscroll">
@@ -131,7 +137,8 @@ export default function Projects() {
               target="_blank"
               rel="noreferrer"
             >
-              View LinkedIn profile <ArrowUpRight size={16} />
+              <Linkedin size={16} /> View LinkedIn profile{" "}
+              <ArrowUpRight size={16} />
             </a>
           </div>
           <div className="row g-3">
@@ -190,7 +197,8 @@ export default function Projects() {
                       rel="noreferrer"
                       className="project-link"
                     >
-                      Read LinkedIn post <ExternalLink size={14} />
+                      <Linkedin size={14} /> Read LinkedIn post{" "}
+                      <ExternalLink size={14} />
                     </a>
                   </div>
                 </article>

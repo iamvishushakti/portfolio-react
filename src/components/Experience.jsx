@@ -1,4 +1,4 @@
-import { BriefcaseBusiness } from "lucide-react";
+import { BriefcaseBusiness, Linkedin } from "lucide-react";
 import SectionHeading from "./SectionHeading";
 import { experience } from "../data/portfolio";
 
@@ -60,8 +60,9 @@ export default function Experience() {
                               href={company.linkedIn}
                               target="_blank"
                               rel="noopener noreferrer"
+                              className="lk-company-link"
                             >
-                              {company.company}
+                              <Linkedin size={13} /> {company.company}
                             </a>
                           ) : (
                             company.company
